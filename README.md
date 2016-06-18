@@ -12,6 +12,7 @@ Select line(s) you want to duplicate, then press `^⇧D`. Bum, line(s) duplicate
 # Change the shortcut
 
 You can do it only by overriding current shortcut in Keyboard settings. To do it, follow these steps:
+
 1. Go to System Preferences
 2. Keyboard
 3. Shortcuts
