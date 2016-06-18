@@ -9,6 +9,21 @@ Select line(s) you want to duplicate, then press `^⇧D`. Bum, line(s) duplicate
 
 ![Duplicate line plugin presentation](https://raw.github.com/castus/xcode-duplicate-line/master/screenshot/presentation.gif)
 
+# Change the shortcut
+
+You can do it only by overriding current shortcut in Keyboard settings. To do it, follow these steps:
+1. Go to System Preferences
+2. Keyboard
+3. Shortcuts
+4. App Shortcuts
+5. +
+6. Application: Xcode
+7. Menu Title: Duplicate Line
+8. Keyboard Shortcut:
+9. Add
+
+Thanks to [@nicoschuele](https://github.com/nicoschuele) for that tip ;)
+
 # Installation
 
 ## Alcatraz
@@ -28,6 +43,10 @@ Delete the following directory
 ```
 $HOME/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/DuplicateLine.xcplugin
 ```
+
+# Xcode 8 version
+Available here https://github.com/castus/Xcode8Extensions
+
 
 # License
 MIT License
